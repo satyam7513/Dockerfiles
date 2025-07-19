@@ -1,5 +1,5 @@
 FROM almalinux:9
-ENV course="devops" 
+ENV course="devops" \
     duration="120hrs"
 
 ARG trainer="siva"
